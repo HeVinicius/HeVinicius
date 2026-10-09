@@ -9,7 +9,7 @@ Gosto de criar scripts e ferramentas que **otimizam tarefas**, **integram sistem
 
 ---
 
-## 🌐 Onde me encontrar
+##  Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/HeVinicius">
@@ -55,7 +55,7 @@ Gosto de criar scripts e ferramentas que **otimizam tarefas**, **integram sistem
 
 ---
 
-## 📊
+## 
 Estatísticas do GitHub
 
 <p align="left">
