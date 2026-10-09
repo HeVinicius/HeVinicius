@@ -53,17 +53,6 @@ Gosto de criar scripts e ferramentas que **otimizam tarefas**, **integram sistem
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 
----
-
-## 
-Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HeVinicius&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeVinicius&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ##  Objetivos
 
