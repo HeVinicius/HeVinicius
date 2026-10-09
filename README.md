@@ -1,6 +1,6 @@
-# Olá 👋, eu sou Heberson Vinicius
+# Olá , eu sou Heberson Vinicius
 
-🚀 **Estudante de Ciência da Computação | Desenvolvedor Python & Automação**  
+ **Estudante de Ciência da Computação | Desenvolvedor Python & Automação**  
 
 
 Sou estudante de **Ciência da Computação**, com formação como **Técnico em Informática**, focado em desenvolver soluções utilizando **Python, automação de processos e análise de dados**.
@@ -22,18 +22,18 @@ Gosto de criar scripts e ferramentas que **otimizam tarefas**, **integram sistem
 
 ---
 
-## 🧠 O que eu faço
+##  O que eu faço
 
--   🤖 Automação de processos com Python
--   📊 Análise e manipulação de dados
--   🔗 Integração com APIs
--   📁 Automação de planilhas (Excel)
--   🛠️ Desenvolvimento de scripts para problemas reais
--   🔐 Interesse em Cibersegurança & Pentest
+-    Automação de processos com Python
+-    Análise e manipulação de dados
+-    Integração com APIs
+-    Automação de planilhas (Excel)
+-    Desenvolvimento de scripts para problemas reais
+-    Interesse em Cibersegurança & Pentest
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 ### Linguagens & Ferramentas
 
@@ -55,7 +55,8 @@ Gosto de criar scripts e ferramentas que **otimizam tarefas**, **integram sistem
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊
+Estatísticas do GitHub
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=HeVinicius&show_icons=true&theme=tokyonight&count_private=true" />
@@ -64,13 +65,13 @@ Gosto de criar scripts e ferramentas que **otimizam tarefas**, **integram sistem
 
 ---
 
-## 🚀 Objetivos
+##  Objetivos
 
--   📚 Evoluir em **desenvolvimento de software e análise de dados**
--   🔐 Crescer na área de **Cibersegurança**
--   ⚙️ Criar mais projetos de **automação e integração**
--   💼 Conquistar oportunidades em **empresas de tecnologia**
+-    Evoluir em **desenvolvimento de software e análise de dados**
+-    Crescer na área de **Cibersegurança**
+-    Criar mais projetos de **automação e integração**
+-    Conquistar oportunidades em **empresas de tecnologia**
 
 ---
 
-🤝 Aberto a colaborações e novas oportunidades
+ Aberto a colaborações e novas oportunidades
